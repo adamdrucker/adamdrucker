@@ -3,7 +3,7 @@
  Also, some more Python for my own interest during free time.
 
 ### I'm currently working on:
-- [ ] Python Bottle project using PyCrypto and Fernet cryptography modules
+- [ ] ~Python Bottle project using PyCrypto and Fernet cryptography modules~ (partially completed, task ended)
 - [ ] A number guessing game in Python, inspired by Final Fantasy XI's Abyssea treasure caskets
 - [ ] A small Python module to convert integers to binary and binary to integer
 - [ ] More mysterious cryptographic play with Python
