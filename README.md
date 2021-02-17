@@ -1,5 +1,5 @@
 # Hello, I'm Adam. 
-## I'm an intern doing some learning in Linux, and with Python. 
+## I'm junior staff with a sysadmin company doing learning in Linux, Python, and Saltstack. 
  Also, some more Python for my own interest during free time.
 
 ### I'm currently working on:
