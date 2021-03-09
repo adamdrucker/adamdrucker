@@ -9,8 +9,9 @@
 - [ ] More mysterious cryptographic play with Python
 
 ### I'm currently learning:
-* You guessed it...Python. It's been a great introductory language, and I'm looking forward to understanding how to use Python to solve problems
-* I'm enrolled in Jose Portilla's Udemy course, which I'm hoping to finish soon, and have another Udemy Python course lined up (time permitting)
+* Python...I'm looking forward to understanding how to use Python to solve real-world problems
+* I'm enrolled in two Udemy Python courses (time permitting)
+* SaltStack...to automate the installation of packages on different Linux distros
 
 ### I'm looking for help with:
 * Any suggested learning resources to help me progress
