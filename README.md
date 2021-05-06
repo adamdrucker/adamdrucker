@@ -5,12 +5,12 @@
 ### I'm currently working on:
 - [ ] ~Python Bottle project using PyCrypto and Fernet cryptography modules~ (partially completed, task ended)
 - [ ] A number guessing game in Python, inspired by Final Fantasy XI's Abyssea treasure caskets
-- [ ] A small Python module to convert integers to binary and binary to integer
-- [ ] More mysterious cryptographic play with Python
+- [ ] ~A small Python module to convert integers to binary and binary to integer~ (discontinued)
+- [ ] A small cryptolocking script that irreversibly encrypts certain file extensions (for education, of course)
 
 ### I'm currently learning:
-* Python...I'm looking forward to understanding how to use Python to solve real-world problems
-* I'm enrolled in two Udemy Python courses (time permitting)
+* Python...to understanding how to solve real-world problems
+* Two Udemy Python courses (time permitting)
 * SaltStack...to automate the installation of packages on different Linux distros
 
 ### I'm looking for help with:
