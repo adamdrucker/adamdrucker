@@ -1,5 +1,5 @@
 # Hello, I'm Adam. 
-## I'm junior staff with a sysadmin company doing learning in Linux, Python, and SaltStack. 
+## I'm a junior staff member with a sysadmin company doing learning in Linux with Bash, Python, Slurm, SaltStack. 
  Also, some more Python for my own interest during free time.
 
 ### I'm currently working on:
