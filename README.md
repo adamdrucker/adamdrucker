@@ -1,23 +1,15 @@
 # Hello, I'm Adam. 
 ## I'm a junior staff member with a sysadmin company doing learning in Linux with Bash, Python, Slurm, SaltStack. 
- Also, some more Python for my own interest during free time.
 
 ### I'm currently working on:
-- [ ] ~Python Bottle project using PyCrypto and Fernet cryptography modules~ (partially completed, task ended)
 - [ ] A number guessing game in Python, inspired by Final Fantasy XI's Abyssea treasure caskets
-- [ ] ~A small Python module to convert integers to binary and binary to integer~ (discontinued)
-- [ ] A small cryptolocking script that irreversibly encrypts certain file extensions (for education, of course)
+- [ ] A small cryptolocking script that irreversibly encrypts certain file extensions
 
 ### I'm currently learning:
-* Python...to understanding how to solve real-world problems
-* Two Udemy Python courses (time permitting)
+* Python...to understand how to solve real-world problems
 * SaltStack...to automate the installation of packages on different Linux distros
+* Usage of Slurm in the HPC environment
 
-### I'm looking for help with:
-* Any suggested learning resources to help me progress
-* Any suggested edits to code in repositories I may have
-* How I can be more Pythonic in my code
-* Tips/advice for a Python/programming novice
 
 <!--
 **adamdrucker/adamdrucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
