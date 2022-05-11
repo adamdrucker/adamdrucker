@@ -1,5 +1,5 @@
 # Hello, I'm Adam. 
-## I'm a junior staff member with a Linux sysadmin company doing work & learning with Bash, Python, Slurm, Spack, SaltStack. 
+## I'm a staff member with a Linux sysadmin company doing work & learning with Bash, Python, Slurm, Spack, SaltStack. 
 
 ### I'm currently working on:
 - [ ] A number guessing game in Python, inspired by Final Fantasy XI's Abyssea treasure caskets
