@@ -9,7 +9,7 @@
 ### I'm currently learning:
 * More about Bash to automate tasks and make command wrappers
 * Usage of Slurm in the HPC environment
-* Usage of Spack to install software targetting various architectures
+* Usage of Spack to install software targeting various architectures
 
 
 <!--
