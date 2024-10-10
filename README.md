@@ -1,5 +1,5 @@
-# Hello, I'm Adam. 
-## I'm a staff member with a Linux sysadmin company doing work & learning with Bash, Python, Slurm, Spack, SaltStack. 
+# Hello. 
+## Linux sysadmin doing work with Bash, Python, Slurm, SaltStack. 
 
 ### I'm currently working on:
 - [ ] {needs_work}
