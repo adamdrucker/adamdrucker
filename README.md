@@ -2,9 +2,7 @@
 ## I'm a staff member with a Linux sysadmin company doing work & learning with Bash, Python, Slurm, Spack, SaltStack. 
 
 ### I'm currently working on:
-- [ ] A number guessing game in Python, inspired by Final Fantasy XI's Abyssea treasure caskets
-- [ ] A small cryptolocking script that irreversibly encrypts certain file extensions
-- [X] A Slurm command wrapper script to get a formatted view of queue statistics
+- [ ] {needs_work}
 
 ### I'm currently learning:
 * More about Bash to automate tasks and make command wrappers
